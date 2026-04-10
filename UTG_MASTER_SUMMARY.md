@@ -1,16 +1,18 @@
 # UTG Master Summary
 
-This is the top-level summary of the current UTG theory state in this workspace.
+**Citable record:** [https://doi.org/10.5281/zenodo.19491557](https://doi.org/10.5281/zenodo.19491557)
+
+This is the top-level summary of the current state of the UTG framework.
 
 ## Core Idea
 
-UTG is being developed here as a unification framework for:
+UTG is a unification framework for:
 
 - gravity
 - temporal structure
 - quantum-sector behavior
 
-The current in-project evidence base is organized around frozen laws, each with:
+The current evidence base is organized around frozen laws, each with:
 
 - a fixed functional form
 - a fixed event set
@@ -18,12 +20,11 @@ The current in-project evidence base is organized around frozen laws, each with:
 - robustness checks
 - replication-style reruns
 
-## Current In-Project Status
+## Current Status
 
-Inside this project:
+Within the current evidence package:
 
-- UTG rank: `1st`
-- internally confirmed/locked predictions: `4`
+- frozen successful predictions: `4`
 
 Broader outside-world recognition still requires outside analyst replication and community scrutiny.
 
@@ -154,7 +155,7 @@ Replication assets:
 
 ## Claim Boundary
 
-What is justified inside this project:
+What is justified from the current evidence:
 
 - the two-channel source law is locked
 - the phase-morphology law is strongly supported
@@ -162,7 +163,7 @@ What is justified inside this project:
 - the quantum interference law is very strongly supported
 - UTG now has gravity, time-structure, and quantum-sector support inside one consistent program
 
-What is not yet fully established outside this project:
+What is not yet fully established outside the current evidence package:
 
 - true outside-analyst replication
 - broader community scrutiny
@@ -170,4 +171,4 @@ What is not yet fully established outside this project:
 
 ## Practical Summary
 
-Inside this workspace and across a separate replicated local environment, UTG is now a serious, internally coherent theory package with four frozen successful predictions.
+Across the current frozen evidence package and a separate replicated local environment, UTG now stands as a serious and internally coherent theory framework with four successful frozen predictions.
