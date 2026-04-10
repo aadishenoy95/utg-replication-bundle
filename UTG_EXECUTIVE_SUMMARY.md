@@ -1,10 +1,12 @@
 # UTG Executive Summary
 
+**Citable record:** [https://doi.org/10.5281/zenodo.19491557](https://doi.org/10.5281/zenodo.19491557)
+
 ## Abstract
 
-UTG is developed in this workspace as a unification framework for gravity,
-temporal structure, and quantum-sector behavior. The current frozen UTG program
-has produced four successful predictions: a two-channel source law, a
+UTG is a proposed unification framework for gravity, temporal structure, and
+quantum-sector behavior. In its current frozen form, UTG has produced four
+successful predictions: a two-channel source law, a
 phase-morphology law, a phase-strength law, and a quantum interference law.
 These laws were tested on fixed event sets with unseen-event validation,
 leave-one-out robustness checks, and replication-style reruns. The strongest
@@ -15,7 +17,7 @@ been reproduced in a separate local environment with the same frozen outputs.
 
 ## Core Theory Statement
 
-UTG in this project is built around a coherent-plus-morphology source
+UTG is built around a coherent-plus-morphology source
 decomposition and a phase-bearing temporal sector. The theory now has working
 predictions across three layers:
 
@@ -62,7 +64,7 @@ frozen two-channel source law.
 
 ## Replication Status
 
-The UTG program has been checked through:
+UTG has been checked through:
 
 - frozen in-workflow reruns
 - leave-one-out robustness
@@ -78,7 +80,7 @@ What is still missing for the strongest outside-world standard is:
 
 What is justified now:
 
-- UTG has four frozen successful predictions inside this project
+- UTG has four frozen successful predictions in the current evidence package
 - the gravity/time/quantum unification program is no longer just qualitative
 - the strongest laws survive replication-style pressure within frozen protocols
 
