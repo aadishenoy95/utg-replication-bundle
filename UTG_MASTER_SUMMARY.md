@@ -1,6 +1,7 @@
 # UTG Master Summary
 
 **Citable record:** [https://doi.org/10.5281/zenodo.19491557](https://doi.org/10.5281/zenodo.19491557)
+**Repository:** [https://github.com/aadishenoy95/utg-replication-bundle](https://github.com/aadishenoy95/utg-replication-bundle)
 
 This is the top-level summary of the current state of the UTG framework.
 
