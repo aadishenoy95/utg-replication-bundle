@@ -10,6 +10,14 @@ UTG is a proposed physics framework intended to connect three layers of the same
 
 The main testable hypothesis is that a two-channel source law, built from a coherent impulse channel plus a morphology channel, reproduces the observed ranking of GW events better than simpler alternatives and remains stable under unseen-event validation and replication. In the current frozen package, that hypothesis is supported by `rho = 8.736264e-01` and `p = 1.499925e-04` on the primary unseen set. Three additional laws derived from the same frozen source structure also survive frozen validation.
 
+## Plain Hypothesis
+
+The hypothesis is:
+
+`A frozen two-channel law trained on a small core set of GW events should keep predicting the same ranking and phase structure on unseen GW events better than simpler alternatives.`
+
+Everything else in this package exists to test that statement.
+
 ## 1. Hypothesis
 
 The UTG hypothesis being tested is:
